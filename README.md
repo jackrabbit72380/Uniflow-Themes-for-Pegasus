@@ -13,8 +13,6 @@ but I'm not quite there yet as i had to make a slight adjustment to the wallpape
 I will try and probably update fix this in the future 
 
 ## Screenshot
-![screenshot](https://github.com/jackrabbit72380/Uniflow-Themes-for-Pegasus/blob/main/preview1.jpg)
-## Screenshot
-![screenshot](https://github.com/jackrabbit72380/Uniflow-Themes-for-Pegasus/blob/main/preview2.jpg)
+![screenshot](https://github.com/jackrabbit72380/Uniflow-Themes-for-Pegasus/blob/main/preview.jpg)
 
 
